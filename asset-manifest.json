@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GautamMarkande/user-validation/static/css/main.9081048d.css",
+    "main.js": "/GautamMarkande/user-validation/static/js/main.30ab6ede.js",
+    "static/js/787.04610529.chunk.js": "/GautamMarkande/user-validation/static/js/787.04610529.chunk.js",
+    "index.html": "/GautamMarkande/user-validation/index.html",
+    "main.9081048d.css.map": "/GautamMarkande/user-validation/static/css/main.9081048d.css.map",
+    "main.30ab6ede.js.map": "/GautamMarkande/user-validation/static/js/main.30ab6ede.js.map",
+    "787.04610529.chunk.js.map": "/GautamMarkande/user-validation/static/js/787.04610529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9081048d.css",
+    "static/js/main.30ab6ede.js"
+  ]
+}
